@@ -17,7 +17,7 @@
 </div>
 
 ### :man_technologist: About Me:
-  - :man_student: I’m  studying computer science at Ulm University
+  - :man_student: I’m  studying computer science at the University of Ulm
 
   - :zap: I’m currently learning Data Science
 
