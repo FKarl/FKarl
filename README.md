@@ -18,7 +18,7 @@
 ### :man_technologist: About Me:
   - :man_student: I’m  studying computer science at the University of Ulm
 
-  - :zap: I’m currently learning Data Science
+  - :zap: I’m mostly interested in Data Science
 
   - :envelope: How to reach me: &nbsp; 
     <a href="https://www.linkedin.com/in/fabian-karl-3511b2173/">
